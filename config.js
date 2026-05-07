@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/xtzhrjesrsrmr0cxzpmtsyn4pc.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Screenshot2026-05-05at11.27.54AM.png",
         "alt": "Cozy Italian dinner for two at Napoli’s Café Stittsville"
       },
       {
@@ -49,7 +49,7 @@ const config = {
         "alt": "Warm, elegant dining room on Stittsville Main Street"
       },
       {
-        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/v565jhmpzxrmw0cxzpns5pc6mr.jpg",
+        "src": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Gemini_Generated_Image_w6fjsiw6fjsiw6fj.png",
         "alt": "Couple enjoying a local date night at an Italian restaurant"
       }
     ],
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1778176803399_0",
+      "id": "q_auto_1778185153439_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778176803399_1",
+      "id": "q_auto_1778185153439_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778176803399_2",
+      "id": "q_auto_1778185153439_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
