@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>$350</span> <span class='highlight'>Italian Dinner for Two</span> in Stittsville!",
     "heroSubheadline": "Enjoy fresh pasta and a cozy date night at Napoli’s Café on Main Street. You pick the night. Entries close June 5, 2026.",
-    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/giveaways/generations/aa0f2m24rhrmr0cxzpmv6kqcvg.jpg",
+    "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Gemini_Generated_Image_c4xej1c4xej1c4xe.png",
     "promotionDates": "Enter May 8, 2026 to June 5, 2026, winner selected June 5, 2026.",
     "endDate": "2026-06-06T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Napoli Italian Dinner Date Giveaway</strong> has been submitted. We’ll draw on June 5, 2026 and notify the winner by email. Good luck!",
-    "socialPromptText": "Watch your inbox on June 5. Follow us on Instagram and Facebook for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -162,6 +155,8 @@ const config = {
       "Follow @amodeohomes on Instagram and Facebook for updates",
       "Share this with a friend who loves Stittsville date nights"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We pick the winner at random from all valid entries. Every person has an equal chance. No tricks."
@@ -182,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1778176789486_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -204,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1778176789486_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -230,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1778176789486_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -256,6 +251,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Napoli Italian Dinner Date Giveaway</strong> has been submitted. We’ll draw on June 5, 2026 and notify the winner by email. Good luck!",
+    "socialPromptText": "Watch your inbox on June 5. Follow us on Instagram and Facebook for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=61574511552649",
