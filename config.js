@@ -5,7 +5,7 @@ const config = {
     "privacyPolicyLink": "https://amodeohomes.com/privacy.html"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>$350</span> <span class='highlight'>Italian Dinner for Two</span> in Stittsville! Napoli’s Cafe Dinner Date Giveaway",
+    "heroHeadline": "Win <span class='highlight'>$350</span> <span class='highlight'>Italian Dinner for Two</span> on Stittsville Main St! Napoli’s Cafe Dinner Date Giveaway",
     "heroSubheadline": "Enjoy fresh pasta and a cozy date night at Napoli’s Café on Main Street. You pick the night. Entries close June 5, 2026.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Gemini_Generated_Image_c4xej1c4xej1c4xe.png",
     "promotionDates": "Enter May 8, 2026 to June 5, 2026, winner selected June 5, 2026.",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1778231903502_0",
+      "id": "q_auto_1778266182302_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778231903502_1",
+      "id": "q_auto_1778266182302_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778231903502_2",
+      "id": "q_auto_1778266182302_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
