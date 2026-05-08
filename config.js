@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1778266950583_0",
+      "id": "q_auto_1778268438721_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778266950583_1",
+      "id": "q_auto_1778268438721_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778266950583_2",
+      "id": "q_auto_1778268438721_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -290,6 +290,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-417",
     "netlifyUrl": "http://Giveaway-417.netlify.app",
     "netlifyId": "1230009083",
-    "tag": "Napoli’s Cafe Dinner Date Giveaway"
+    "tag": "Napoli Cafe Dinner Date Giveaway"
   }
 };
