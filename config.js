@@ -1,20 +1,20 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $350 Stittsville Italian Dinner Date, Free Entry!",
+    "pageTitle": "Napoli’s Cafe Dinner Date Giveaway",
     "navBrandLogoText": "Jonathan Amodeo",
     "privacyPolicyLink": "https://amodeohomes.com/privacy.html"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>$350</span> <span class='highlight'>Italian Dinner for Two</span> in Stittsville!",
+    "heroHeadline": "Win <span class='highlight'>$350</span> <span class='highlight'>Italian Dinner for Two</span> in Stittsville! Napoli’s Cafe Dinner Date Giveaway",
     "heroSubheadline": "Enjoy fresh pasta and a cozy date night at Napoli’s Café on Main Street. You pick the night. Entries close June 5, 2026.",
     "heroBackgroundImageUrl": "https://salesgeniusportal.s3.ca-central-1.amazonaws.com/TeamUploads/upload-Gemini_Generated_Image_c4xej1c4xej1c4xe.png",
     "promotionDates": "Enter May 8, 2026 to June 5, 2026, winner selected June 5, 2026.",
     "endDate": "2026-06-06T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
-    "name": "Napoli Italian Dinner Date Giveaway",
+    "name": "Napoli’s Cafe Dinner Date Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Napoli Italian Dinner Date Giveaway</strong> is in! Winner will be selected June 5, 2026 and notified by email. Good luck!",
+    "successModalMainMessage": "Your entry for the <strong>Napoli’s Cafe Dinner Date Giveaway</strong> is in! Winner will be selected June 5, 2026 and notified by email. Good luck!",
     "successModalEmailPrompt": "Watch your email on June 5, 2026, and check your spam folder as well."
   },
   "settings": {
@@ -75,7 +75,7 @@ const config = {
         "text": "Use on menu items per card terms"
       }
     ],
-    "name": "Napoli Italian Dinner Date Giveaway",
+    "name": "Napoli’s Cafe Dinner Date Giveaway",
     "value": "$350 Value",
     "description": "Picture this: warm bread on the table. House made pasta. Rich sauces. A quiet, cozy room on Stittsville Main Street. You and your date can slow down, talk, and enjoy a real night out. Napoli’s Café has been loved by locals for 30+ years. This gift card lets you plan the perfect night that fits your schedule.",
     "limitedTimeOfferText": "Limited Local Giveaway, ends June 5!",
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1778185528952_0",
+      "id": "q_auto_1778231903502_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778185528952_1",
+      "id": "q_auto_1778231903502_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -225,7 +225,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1778185528952_2",
+      "id": "q_auto_1778231903502_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,7 +260,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Napoli Italian Dinner Date Giveaway</strong> has been submitted. We’ll draw on June 5, 2026 and notify the winner by email. Good luck!",
+    "mainMessage": "Your entry for the <strong>Napoli’s Cafe Dinner Date Giveaway</strong> has been submitted. We’ll draw on June 5, 2026 and notify the winner by email. Good luck!",
     "socialPromptText": "Watch your inbox on June 5. Follow us on Instagram and Facebook for the winner post."
   },
   "footerContact": {
@@ -290,6 +290,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-417",
     "netlifyUrl": "http://Giveaway-417.netlify.app",
     "netlifyId": "1230009083",
-    "tag": "Napoli Italian Dinner Date Giveaway"
+    "tag": "Napoli’s Cafe Dinner Date Giveaway"
   }
 };
